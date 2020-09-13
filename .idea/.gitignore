@@ -7,9 +7,13 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 out/
-.idea/
-.idea_modules/
+
 *.iml
 *.ipr
 *.iws
 target/
+../hw/
+../.idea/
+../.idea_modules/
+../out
+../out/git
